@@ -1,1 +1,1 @@
-# Marketing-IA
+# Marketing-AI
